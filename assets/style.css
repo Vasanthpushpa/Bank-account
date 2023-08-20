@@ -1,0 +1,23 @@
+h1{
+    color: red;
+    width: fit-content;
+    margin-left: 200px;
+    font-weight: bolder;
+    font-size: larger;
+    background-color: #FFF3DA;
+    border-radius: 200px;
+}
+
+html{
+    background-color: #BEADFA;
+}
+
+label{
+    font-size: larger;
+}
+
+input,select{
+    border-radius: 10px;
+    border: 5px solid ;
+    font-size: larger;
+}
